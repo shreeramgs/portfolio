@@ -4,7 +4,8 @@
 
 
 This repository contains my portfolio of data science projects completed by me for academic, self learning, and hobby purposes
-
+ 
+-   Take a peek into my professional journey and get to know my skills and experience:📝 [Resume](https://github.com/shreeramgs/Resume/blob/main/Shreeram%20datascience.pdf)
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only_
 
@@ -17,11 +18,11 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 -   ### Portfolio projects
     >A brief culmination of my 💼 [projects](https://github.com/shreeramgs/Data-Science-projects/tree/main), showcasing my skills and expertise in specific areas or technologies
-    -   **Depression Detection from social media platforms**:
-    -   **US House Rent Predictor**
-    -  **Heart Attack Predictor**
-    -   **Pneumonia Detector by Chest X-Ray**
-    -   **E-wal (online E wallet web application)**
+    -   [Depression Detection from social media platforms](https://github.com/shreeramgs/depression_detector): 
+    -   [US House Rent Predictor](https://github.com/shreeramgs/US_House_Rent_Predictor):A model to predict the value of a given house
+    -   [Heart Attack Predictor]():
+    -   [Pneumonia Detector by Chest X-Ray](https://github.com/shreeramgs/pneumonia_detector):
+    -   [E-wal (online E wallet web application](https://github.com/shreeramgs/E-wal):
 
 -   ### R Projects
     >   📚[Supervised Learning](https://github.com/shreeramgs/Data-Science-projects/tree/main/Data%20Science%20Projects/Supervised%20Learning%20Methods): In this repo, I discuss about
