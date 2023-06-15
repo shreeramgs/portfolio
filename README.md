@@ -48,3 +48,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
     -   **🤖 Machine learning and AI development**
     -   **📈 Data analytics**
     -   **👷🏻 Data engineering (_Talend_)**
+If you liked what you saw, and want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at shreeramgs06@gmail.com
+
+### Support My Work
+
+If this  inspired you or gave you ideas for your portfolio, please consider 🦸🦇⚡[buying me a comic](https://bmc.link/shreeramgs)
