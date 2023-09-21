@@ -5,7 +5,7 @@
 
 This repository contains my portfolio of data science and software engineering projects completed by me for academic, self-learning, and hobby purposes
  
--   Take a peek into my professional journey and get to know my skills and experience:📝[Resume](https://github.com/shreeramgs/Resume/blob/main/Shreeram%20datascience.pdf)
+-   Take a peek into my professional journey and get to know my skills and experience:📝[Resume](https://github.com/shreeramgs/Resume/blob/main/Resume.pdf)
 
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only_
 
